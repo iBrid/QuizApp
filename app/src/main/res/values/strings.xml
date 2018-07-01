@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">1. The earth revolves round the ?</string>
+    <string name="option10">Axis</string>
+    <string name="option11">Moon</string>
+    <string name="option12">Sun</string>
+    <string name="option13">Planet</string>
+    <string name="question2">2. The name of our galaxy is?</string>
+    <string name="option20">Milky way</string>
+    <string name="option21">Earth</string>
+    <string name="option22">Gateway</string>
+    <string name="option23">Asteroid</string>
+    <string name="question3">3. The planet that has similar characteristics with Earth is?</string>
+    <string name="EditText">Enter Answer</string>
+    <string name="question4">4. To accurately find a location, you need which of the following?</string>
+    <string name="option40">Longitude</string>
+    <string name="option41">Latitude</string>
+    <string name="option42">Aptitude</string>
+    <string name="option43">Multitude</string>
+    <string name="question5">5. The sun rises in the East and sets in the?</string>
+    <string name="option50">East</string>
+    <string name="option51">South</string>
+    <string name="option52">West</string>
+    <string name="option53">North</string>
+    <string name="submit">Submit</string>
+    <string name="tryAgain">Try Again</string>
+</resources>
